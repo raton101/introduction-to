@@ -2,7 +2,7 @@
 const Footer = () => {
     return (
         <div>
-            <p><small>Think you for visiting our website</small></p>
+            <h1><small>Think you for visiting our website</small></h1>
             
         </div>
     );
